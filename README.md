@@ -1,6 +1,7 @@
 # Coravirus Analysis
 
-## Group project 03 - Members: Renata Sant'Anna, Cara Roberts, Hayden Buss, Kabao Xiong and Nick Sain
+## Group project 03
+Members: Renata Sant'Anna, Cara Roberts, Hayden Buss, Kabao Xiong and Nick Sain
 
 ### Goal
 
