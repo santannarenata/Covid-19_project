@@ -11,6 +11,6 @@ Also, we've created a time series plot that shows the confirmed cases by country
 
 - Data: API: https://covid19api.com/#details
 
-- Tools: JavaScript (Library: leaflet), CSS, HTML, GeoJson (map) tools
+- Tools: JavaScript (Library: leaflet), CSS, HTML, GeoJson (map)
 
 
